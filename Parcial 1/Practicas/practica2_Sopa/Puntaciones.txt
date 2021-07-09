@@ -1,0 +1,4 @@
+--------
+Direccion: /127.0.0.1   categoria: prueba    puntuacion:    86.0
+--------
+Direccion: /127.0.0.1   categoria: prueba    puntuacion:    55.0
